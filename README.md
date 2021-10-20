@@ -1,2 +1,2 @@
 # GitPullPrac
-# 666Practice GitHub clone and Pull Request in 0420
+# Git Branch Practice Practice GitHub clone and Pull Request in 0420
